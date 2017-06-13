@@ -46,7 +46,7 @@
 + Pen drives
     * no pen drives was used (media insecure and prone to error)
 + Hard drives
-    * Toshiba 1Tb (encrypted vía [VeraCrypt](https://veracrypt.codeplex.com/))
+    * Toshiba 1Tb (encrypted vï¿½a [VeraCrypt](https://veracrypt.codeplex.com/))
     * Lacie 3Tb ([LaCie Private-Public] (http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated) 
 + Room
     * verify the environmental temperature
@@ -55,7 +55,8 @@
 	
 Processing:
 + Audio:
-    * 
+    * all the videos were extracted the sound. 
+	* the sounds were treated and improved: i.e. noise reduction it was applied for better transcription.
 + Video:
     * all the sessions were recorded on HD.
 	* from the internal hard drive of the video camcorder were moved to a macbook encripted. Moreover it was created a virtual machine (courtesy of VirtualBox), from where it were recorded to blank dvds for backup purpose.
