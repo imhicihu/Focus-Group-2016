@@ -1,5 +1,6 @@
 + Email:
     * apply PGP encryption schema between pairs
+	* software: [GNUP](https://www.gnupg.org/software/index.html)
 + Ipad:
     * verify current date & hour
 	* Enable [TouchID](https://support.apple.com/en-us/HT204587)
@@ -28,10 +29,10 @@
 	* video compression format: AVCHD (HD)
 	* recording quality: HD (1080/60I)
 	* recording mode: HD
-	* turn off flash lights
+	* turn off flash light
     * sound volume: middle setting, not to the max to avoid saturation
-	* sound format: mp3, stereo, 48000 Mhz
-	* video format: 
+	* sound format: 2 channels, stereo, 44000 Mhz
+	* video format: mpeg 4
 	* no zoom
 	* no face detection
 	* manual focus
@@ -45,9 +46,20 @@
 + Pen drives
     * no pen drives was used (media insecure and prone to error)
 + Hard drives
-    * Toshiba 1Tb (encrypted vÃ­a [VeraCrypt](https://veracrypt.codeplex.com/))
+    * Toshiba 1Tb (encrypted vía [VeraCrypt](https://veracrypt.codeplex.com/))
     * Lacie 3Tb ([LaCie Private-Public] (http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated) 
 + Room
     * verify the environmental temperature
 	* verify the surround noise of close rooms & outsides
 	* verify the illumination
+	
+Processing:
++ Audio:
+    * 
++ Video:
+    * all the sessions were recorded on HD.
+	* from the internal hard drive of the video camcorder were moved to a macbook encripted. Moreover it was created a virtual machine (courtesy of VirtualBox), from where it were recorded to blank dvds for backup purpose.
+	* Once recorded, it was delivered by hand to destination. 
+	* The virtual machine was obliterated. 
+	* Both portable hard drives were wipped.
+	
