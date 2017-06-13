@@ -10,6 +10,10 @@
 	* turn off sound alarms
 	* turn off gps
 	* turn off wifi
+	* no hdmi cable attached
+	* no A/V remote connector attached
+	* no headphones monitoring attached
+	* a separated microphone is a must (the better sound capture, the better and swifter transcripts will be!)
 + video recorder:
     * verify current date & hour
 	* no gps data recorded. 
