@@ -45,14 +45,17 @@
 	* verify battery charge: 100% charge is advisable
 	* enable [FileVault](https://support.apple.com/en-us/HT204837)
 	* disabe wifi
-	* disable geolocation 
+	* disable geolocation
+	* install [VirtualBox](https://www.virtualbox.org/wiki/VirtualBox)
+	* create a virtual machine
+	* install inside this virtual machine: [Audacity](http://www.audacityteam.org/) for audio treatment & noise reduction
 	* during audio edition: no background tasks allowed
 	* during recording-transference of data to DVDs: no background tasks allowed
 + Pen drives
     * no pen drives was used (media insecure and prone to error) along the project
 + Hard drives
-    * Toshiba 1Tb (encrypted v�a [VeraCrypt](https://veracrypt.codeplex.com/))
-    * Lacie 3Tb ([LaCie Private-Public] (http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated) 
+    * Lacie 3Tb ([LaCie Private-Public] (http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated)
+	* Toshiba 1Tb (encrypted courtesy by [VeraCrypt](https://veracrypt.codeplex.com/))
 + Room 
     * verify the environmental temperature
 	* verify the surround noise of close rooms & outsides. Measure the [decibels](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
