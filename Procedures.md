@@ -7,7 +7,7 @@
 + Ipad:
     * verify current date & hour
 	* Enable [TouchID](https://support.apple.com/en-us/HT204587)
-	* Enable Passcode
+	* Enable [Passcode](https://support.apple.com/en-us/HT204060)
 	* verify capacity available. Go to `Settings --) General --) About`
 	* connect to electrical surge (to avoid warnings of low battery)
 	* sound volume of [Voice Recorder Pro](https://itunes.apple.com/ar/app/voice-record-pro/id546983235?mt=8): maximum as possible
@@ -18,9 +18,9 @@
 	* turn off wifi
 	* no hdmi cable attached
 	* no A/V remote connector attached
-	* VoiceOver disabled
+	* [VoiceOver](https://www.apple.com/accessibility/iphone/vision/) disabled
 	* no headphones monitoring attached
-	* a separated microphone is a must (the better sound capture, the better and swifter transcripts will be!)
+	* a dedicated [microphone](https://bitbucket.org/imhicihu/focus-group-2016/src/efe6ed9347a086fea9f3a0b01b9b1705809d2dce/improvements.md?at=default) is a must (the better sound capture, the better and swifter transcripts will be!)
 + Video recorder:
     * format internal hard disk drive
 	* verify battery charge (100% charge is advisable)
@@ -49,7 +49,7 @@
 	* disabe wifi
 	* disable geolocation
 	* install [VirtualBox](https://www.virtualbox.org/wiki/VirtualBox)
-	* create a virtual machine
+	* create a [virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
 	* install inside this virtual machine: [Audacity](http://www.audacityteam.org/) for audio treatment & noise reduction
 	* during audio edition: no background tasks allowed
 	* install [Disco](http://www.discoapp.com/): record & transfer to DVD both video & audio treated
@@ -60,7 +60,7 @@
     * Lacie 3Tb [LaCie Private-Public](http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated
 	* Toshiba 1Tb (encrypted courtesy by [VeraCrypt](https://veracrypt.codeplex.com/))
 	* both hard drives will be used in case of emergency (as backup purpose)
-+ Room 
++ Focus Group Room 
     * verify the environmental temperature
 	* verify the surround noise of close rooms & outsides. Measure the [decibels](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
 	* verify the illumination. Measure the [lux](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
