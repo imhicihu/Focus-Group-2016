@@ -2,7 +2,7 @@
     * No cloud service was used along the process: No Dropbox, no Google Drive, no Evernote, no WeTransfer. Reason: security & data breach threats 
 + Email:
 	* software: [GNUP](https://www.gnupg.org/software/index.html)
-	* generate (Public key)[http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto-1.html#ss1.1] inside [GNUPG](https://www.gnupg.org/software/index.html)
+	* generate [Public key](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto-1.html#ss1.1) inside [GNUPG](https://www.gnupg.org/software/index.html)
 	* apply PGP encryption schema between pairs
 + Ipad:
     * verify current date & hour
@@ -66,6 +66,8 @@
 	* verify the illumination. Measure the [lux](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
 	
 * Procedures:
+    + Emails:
+	    * send invitations via [Mailchimp](https://bitbucket.org/imhicihu/focus-group-2016/issues/17/workflow-webapp-used)
     + Video:
         * all the sessions were recorded on HD.
 	    * from the internal hard drive of the digital video camcorder were transferred to the hard drive encripted of a macbook computer. Moreover, it was created a virtual machine, from where it were recorded to blank dvds for backup purpose
