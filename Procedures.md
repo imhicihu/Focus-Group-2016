@@ -1,6 +1,9 @@
++ Cloud:
+    * No cloud service was used along the process: No Dropbox, no Google Drive, no Evernote, no WeTransfer. Reason: security & data breach threats 
 + Email:
-    * apply PGP encryption schema between pairs
 	* software: [GNUP](https://www.gnupg.org/software/index.html)
+	* generate (Public key)[http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto-1.html#ss1.1] inside [GNUPG](https://www.gnupg.org/software/index.html)
+	* apply PGP encryption schema between pairs
 + Ipad:
     * verify current date & hour
 	* Enable [TouchID](https://support.apple.com/en-us/HT204587)
@@ -19,7 +22,7 @@
 	* no headphones monitoring attached
 	* a separated microphone is a must (the better sound capture, the better and swifter transcripts will be!)
 + Video recorder:
-    * format hard disk
+    * format internal hard disk drive
 	* verify battery charge (100% charge is advisable)
     * fasten to the tripod
 	* measure [ambiental lux](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8)
@@ -28,7 +31,6 @@
 	* no gps data allowed
 	* video compression format: AVCHD (HD)
 	* recording quality: HD (1080/60I)
-	* recording mode: HD
 	* turn off flash light
     * sound volume: middle setting, not to the max to avoid saturation
 	* sound format: 2 channels, stereo, 44000 Mhz
@@ -74,4 +76,3 @@
         * all the videos were extracted the sound
 	    * those sounds were treated and improved: i.e. noise reduction (mostly) it was applied for a better transcription
 		* `experimental:` all the sounds will be treated with this webapp for future speech recognition: [Speechmatics](https://www.speechmatics.com/labs/real-time-demo/)
-	
