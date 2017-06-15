@@ -57,7 +57,7 @@
 + Pen drives
     * no pen drives was used (media insecure and prone to error) along the project
 + Hard drives
-    * Lacie 3Tb ([LaCie Private-Public] (http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated)
+    * Lacie 3Tb [LaCie Private-Public](http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated
 	* Toshiba 1Tb (encrypted courtesy by [VeraCrypt](https://veracrypt.codeplex.com/))
 	* both hard drives will be used in case of emergency (as backup purpose)
 + Room 
