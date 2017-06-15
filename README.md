@@ -1,4 +1,5 @@
 # README #
+[![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)]()
 
 This README summarize the steps involved in the making of a focus group. 
 
