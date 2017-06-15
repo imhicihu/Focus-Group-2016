@@ -5,7 +5,7 @@ This README summarize the steps involved in the making of a focus group.
 
 ### What is this repository for? ###
 
-* Workflow to-follow in the proccess of record a focus group, focussing on the safeguard of the data generated.
+* Workflow to-follow in the proccess of recording a focus group, focussing on the safeguard of the data generated.
 * Version 1.01
 
 ### How do I get set up? ###
