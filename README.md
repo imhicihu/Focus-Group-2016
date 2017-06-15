@@ -1,28 +1,31 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This README summarize the steps involved in the making of a focus group. 
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
+* Workflow to-follow in the proccess of record a focus group, focussing on the safeguard of the data generated.
+* Version 1.01
 
 ### How do I get set up? ###
 
 * Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
++ Configuration
+    * follow this [guideline](https://bitbucket.org/imhicihu/focus-group-2016/src/017b01e546b45f338751da5b97a1435e95221ec5/Procedures.md?at=default&fileviewer=file-view-default)
++ Dependencies
+    * the hardware and software must follow this [guideline](https://bitbucket.org/imhicihu/focus-group-2016/src/017b01e546b45f338751da5b97a1435e95221ec5/Procedures.md?at=default&fileviewer=file-view-default)
++ How to run tests
+    * follow this [guideline](https://bitbucket.org/imhicihu/focus-group-2016/src/017b01e546b45f338751da5b97a1435e95221ec5/Procedures.md?at=default&fileviewer=file-view-default)
++ Deployment instructions
+    * The best scenario as possible is a room without invasive sounds. Advice: the better microphone will result in better (and fasts) transcriptions. 
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* No contribution is allowed (up to now)
+* There is a non-disclosure agreement between parties.
++ Other data:
+    * Check all the [issues](https://bitbucket.org/imhicihu/focus-group-2016/issues):
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Repo owner or admin: `imhicihu at gmail dot com`
