@@ -1,9 +1,15 @@
+### The net ###
+
 + Cloud:
     * No cloud service was used along the process: No Dropbox, no Google Drive, no Evernote, no WeTransfer. Reason: security & data breach threats 
 + Email:
 	* software: [GNUP](https://www.gnupg.org/software/index.html)
 	* generate [Public key](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto-1.html#ss1.1) inside [GNUPG](https://www.gnupg.org/software/index.html)
 	* apply PGP encryption schema between pairs
+
+
+### Hardware ###
+
 + Ipad:
     * verify current date & hour
 	* Enable [TouchID](https://support.apple.com/en-us/HT204587)
@@ -21,6 +27,7 @@
 	* [VoiceOver](https://www.apple.com/accessibility/iphone/vision/) disabled
 	* no headphones monitoring attached
 	* a dedicated [microphone](https://bitbucket.org/imhicihu/focus-group-2016/src/efe6ed9347a086fea9f3a0b01b9b1705809d2dce/improvements.md?at=default) is a must (the better sound capture, the better and swifter transcripts will be!)
+
 + Video recorder:
     * format internal hard disk drive
 	* verify battery charge (100% charge is advisable)
@@ -40,6 +47,7 @@
 	* manual focus on
 	* SD card (encrypted with [VeraCrypt](https://veracrypt.codeplex.com/))
     * internal hard disk: once the edition of sound was made and backed on DVDs, the internal hard disk of the camcorder was formatted. (Vide on [SR11 Guide](https://bitbucket.org/imhicihu/focus-group-2016/downloads/sr11guide.pdf), p. 7)
+
 + Computer (Mac OS X El Capitan operating system)
     * enable login password for session
 	* disable automatic login
@@ -54,18 +62,24 @@
 	* during audio edition: no background tasks allowed
 	* install [Disco](http://www.discoapp.com/): record & transfer to DVD both video & audio treated
 	* during recording-transference of data to DVD: no background tasks allowed
+
 + Pen drives
     * no pen drives was used (media insecure and prone to error) along the project
+
 + Hard drives
     * Lacie 3Tb [LaCie Private-Public](http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated
 	* Toshiba 1Tb (encrypted courtesy by [VeraCrypt](https://veracrypt.codeplex.com/))
 	* both hard drives will be used in case of emergency (as backup purpose)
+
+### Location ###
+
 + Focus Group Room 
     * verify the environmental temperature
 	* verify the surround noise of close rooms & outsides. Measure the [decibels](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
 	* verify the illumination. Measure the [lux](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
-	
-* Procedures:
+
+
+### Procedures: ###
     + Emails:
 	    * send invitations via [Mailchimp](https://bitbucket.org/imhicihu/focus-group-2016/issues/17/workflow-webapp-used)
     + Video:
