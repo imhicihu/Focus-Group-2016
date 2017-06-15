@@ -1,7 +1,7 @@
 ### The net ###
 
 + Cloud:
-    * No cloud service was used along the process: No Dropbox, no Google Drive, no Evernote, no WeTransfer. Reason: security & data breach threats 
+    * No cloud service was used along the process: No iCloud, no Dropbox, no Google Drive, no Evernote, no WeTransfer. Reason: security & data breach threats 
 + Email:
 	* software: [GNUP](https://www.gnupg.org/software/index.html)
 	* generate [Public key](http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto-1.html#ss1.1) inside [GNUPG](https://www.gnupg.org/software/index.html)
