@@ -20,7 +20,7 @@
 	* a separated microphone is a must (the better sound capture, the better and swifter transcripts will be!)
 + Video recorder:
     * format hard disk
-	* verify battery charge (full is advisable)
+	* verify battery charge (100% charge is advisable)
     * fasten to the tripod
 	* measure [ambiental lux](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8)
     * verify current date & hour
@@ -34,8 +34,8 @@
 	* sound format: 2 channels, stereo, 44000 Mhz
 	* video format: mpeg 4
 	* no zoom
-	* no face detection
-	* manual focus
+	* disable face detection feature
+	* manual focus on
 	* SD card (encrypted with [VeraCrypt](https://veracrypt.codeplex.com/))
     * internal hard disk: once the edition of sound was made and backed on DVDs, the internal hard disk of the camcorder was formatted. (Vide on [SR11 Guide](https://bitbucket.org/imhicihu/focus-group-2016/downloads/sr11guide.pdf), p. 7)
 + Computer (Mac OS X El Capitan operating system)
@@ -50,25 +50,27 @@
 	* create a virtual machine
 	* install inside this virtual machine: [Audacity](http://www.audacityteam.org/) for audio treatment & noise reduction
 	* during audio edition: no background tasks allowed
-	* during recording-transference of data to DVDs: no background tasks allowed
+	* install [Disco](http://www.discoapp.com/): record & transfer to DVD both video & audio treated
+	* during recording-transference of data to DVD: no background tasks allowed
 + Pen drives
     * no pen drives was used (media insecure and prone to error) along the project
 + Hard drives
     * Lacie 3Tb ([LaCie Private-Public] (http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated)
 	* Toshiba 1Tb (encrypted courtesy by [VeraCrypt](https://veracrypt.codeplex.com/))
+	* both hard drives will be used in case of emergency (as backup purpose)
 + Room 
     * verify the environmental temperature
 	* verify the surround noise of close rooms & outsides. Measure the [decibels](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
 	* verify the illumination. Measure the [lux](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
 	
-Processing:
-+ Audio:
-    * all the videos were extracted the sound. 
-	* the sounds were treated and improved: i.e. noise reduction it was applied for better transcription.
-+ Video:
-    * all the sessions were recorded on HD.
-	* from the internal hard drive of the video camcorder were moved to a macbook encripted. Moreover it was created a virtual machine (courtesy of VirtualBox), from where it were recorded to blank dvds for backup purpose.
-	* Once recorded, it was delivered by hand to destination. 
-	* The virtual machine was obliterated. 
-	* Both portable hard drives were wipped.
+* Processing:
+    + Audio:
+        * all the videos were extracted the sound. 
+	    * the sounds were treated and improved: i.e. noise reduction it was applied for better transcription
+    + Video:
+        * all the sessions were recorded on HD.
+	    * from the internal hard drive of the video camcorder were moved to a macbook encripted. Moreover it was created a virtual machine (courtesy of VirtualBox), from where it were recorded to blank dvds for backup purpose
+	    * Once recorded, it was delivered by hand to destination
+	    * The virtual machine was obliterated.
+	    * Both portable hard drives were wipped once the process ended
 	
