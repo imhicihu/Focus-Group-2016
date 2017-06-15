@@ -1,7 +1,7 @@
 # README #
 [![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)]()
 
-This README summarize the steps involved in the making of a focus group. 
+This README summarize the steps involved in the recording (audio/video) of a focus group. 
 
 ### What is this repository for? ###
 
