@@ -63,14 +63,15 @@
 	* verify the surround noise of close rooms & outsides. Measure the [decibels](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
 	* verify the illumination. Measure the [lux](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
 	
-* Processing:
-    + Audio:
-        * all the videos were extracted the sound. 
-	    * the sounds were treated and improved: i.e. noise reduction it was applied for better transcription
+* Procedures:
     + Video:
         * all the sessions were recorded on HD.
-	    * from the internal hard drive of the video camcorder were moved to a macbook encripted. Moreover it was created a virtual machine (courtesy of VirtualBox), from where it were recorded to blank dvds for backup purpose
+	    * from the internal hard drive of the digital video camcorder were transferred to the hard drive encripted of a macbook computer. Moreover, it was created a virtual machine, from where it were recorded to blank dvds for backup purpose
 	    * Once recorded, it was delivered by hand to destination
-	    * The virtual machine was obliterated.
+	    * The virtual machine was obliterated
 	    * Both portable hard drives were wipped once the process ended
+	+ Audio:
+        * all the videos were extracted the sound
+	    * those sounds were treated and improved: i.e. noise reduction (mostly) it was applied for a better transcription
+		* `experimental:` all the sounds will be treated with this webapp for future speech recognition: [Speechmatics](https://www.speechmatics.com/labs/real-time-demo/)
 	
