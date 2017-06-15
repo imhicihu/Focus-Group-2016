@@ -5,7 +5,7 @@
     * verify current date & hour
 	* Enable [TouchID](https://support.apple.com/en-us/HT204587)
 	* Enable Passcode
-	* verify capacity available (Settings --) General --) About )
+	* verify capacity available. Go to `Settings --) General --) About`
 	* connect to electrical surge (to avoid warnings of low battery)
 	* sound volume of [Voice Recorder Pro](https://itunes.apple.com/ar/app/voice-record-pro/id546983235?mt=8): maximum as possible
 	* turn off "energy saver" features
@@ -38,20 +38,25 @@
 	* manual focus
 	* SD card (encrypted with [VeraCrypt](https://veracrypt.codeplex.com/))
     * internal hard disk: once the edition of sound was made and backed on DVDs, the internal hard disk of the camcorder was formatted. (Vide on [SR11 Guide](https://bitbucket.org/imhicihu/focus-group-2016/downloads/sr11guide.pdf), p. 7)
-+ Computer
++ Computer (Mac OS X El Capitan operating system)
     * enable login password for session
 	* disable automatic login
+	* disable energy savers: no screen sleep / no put hard drive on sleep
+	* verify battery charge: 100% charge is advisable
 	* enable [FileVault](https://support.apple.com/en-us/HT204837)
-	* during audio edition: no wifi & geolocation allowed
+	* disabe wifi
+	* disable geolocation 
+	* during audio edition: no background tasks allowed
+	* during recording-transference of data to DVDs: no background tasks allowed
 + Pen drives
-    * no pen drives was used (media insecure and prone to error)
+    * no pen drives was used (media insecure and prone to error) along the project
 + Hard drives
     * Toshiba 1Tb (encrypted v�a [VeraCrypt](https://veracrypt.codeplex.com/))
     * Lacie 3Tb ([LaCie Private-Public] (http://www.lacie.com/la/es/products/software/private-public/) encryption schema activated) 
-+ Room
++ Room 
     * verify the environmental temperature
-	* verify the surround noise of close rooms & outsides
-	* verify the illumination
+	* verify the surround noise of close rooms & outsides. Measure the [decibels](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
+	* verify the illumination. Measure the [lux](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved).
 	
 Processing:
 + Audio:
