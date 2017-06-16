@@ -13,8 +13,8 @@ This README summarize the steps involved in the recording (audio/video) of a foc
 * Summary of set up
 + Configuration
     * follow this guidelines: [hardware](https://bitbucket.org/imhicihu/focus-group-2016/issues/11/workflow-hardware-involved) & [software](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved)
-+ Dependencies
-    * the hardware and software must follow this [guideline](https://bitbucket.org/imhicihu/focus-group-2016/src/017b01e546b45f338751da5b97a1435e95221ec5/Procedures.md?at=default&fileviewer=file-view-default)
++ Procedures
+    * the hardware and software must follow this [guide](https://bitbucket.org/imhicihu/focus-group-2016/src/017b01e546b45f338751da5b97a1435e95221ec5/Procedures.md?at=default&fileviewer=file-view-default)
 + Deployment instructions
     * The best scenario as possible is a room without invasive sounds. Advice: the best microphone will result in a better (and fast) transcription. 
 
