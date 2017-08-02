@@ -1,7 +1,7 @@
 # README #
 [![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)]()
 
-This README summarize the steps involved in the recording (audio/video) of a focus group session. 
+This README summarize the steps involved in the recording (audio/video) of a focus group session. Privacy & security were top most milestone to meet.
 
 ### What is this repository for? ###
 
