@@ -85,7 +85,7 @@
     * send invitations via [Mailchimp](https://bitbucket.org/imhicihu/focus-group-2016/issues/17/workflow-webapp-used)
 + Video:
     * all the sessions were recorded on HD.
-	* from the internal hard drive of the digital video camcorder were transferred to the hard drive encripted of a macbook computer. Moreover, it was created a virtual machine, from where it were recorded to blank dvds for backup purpose
+	* from the internal hard drive of the digital video camcorder were transferred to the hard drive encrypted of a macbook computer. Moreover, it was created a virtual machine (courtesy by VirtualBox), from where it were recorded to blank dvds for backup purpose
 	* Once recorded, it was delivered by hand to destination
 	* The virtual machine was obliterated
 	* Both portable hard drives were wipped once the process ended
