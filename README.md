@@ -28,5 +28,5 @@
 * No contribution is allowed ~~(up to now)~~
 * There is a non-disclosure agreement between parties.
 * By law, we can't  share any kind of data
-* You can verify all the worklow in the making of the sessions:
+* You can verify all the workflow in the making of the sessions:
     - They can be find [here](https://bitbucket.org/imhicihu/focus-group-2016/issues):
