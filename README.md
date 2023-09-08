@@ -1,5 +1,7 @@
+![stability-work_in_progress](images/3278295154-status_archived.png)
+![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)
 # Rationale #
-[![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)]()
+
 
 * This document summarize the steps involved in the recording (audio/video) of some focus group sessions
 * Privacy & security were top most goals to meet from beginning to the last actions done
@@ -15,10 +17,10 @@
 * Summary of set up
 + Configuration
     - follow this guidelines: 
-        - [hardware](https://bitbucket.org/imhicihu/focus-group-2016/issues/11/workflow-hardware-involved)
-        - [software](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved)
+        - ~~[hardware](https://bitbucket.org/imhicihu/focus-group-2016/issues/11/workflow-hardware-involved)~~
+        - ~~[software](https://bitbucket.org/imhicihu/focus-group-2016/issues/12/workflow-software-involved)~~
 + Procedures
-    - the hardware and software must follow this [guide](https://bitbucket.org/imhicihu/focus-group-2016/src/eb6c6187fea0b41ba63816070eaf06fd275cfb0f/Procedures.md?at=default&fileviewer=file-view-default)
+    - the hardware and software must follow this [guide](Procedures.md)
 + Deployment instructions
     - The best scenario as possible is a room without invasive sounds and proper light, even more, with good acoustic
     - _Advice_: the best microphone will result in a better (and fast) transcription 
