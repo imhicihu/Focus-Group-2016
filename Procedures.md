@@ -26,7 +26,7 @@
 	* no A/V remote connector attached
 	* [VoiceOver](https://www.apple.com/accessibility/iphone/vision/) disabled
 	* no headphones monitoring attached
-	* a dedicated [microphone](https://bitbucket.org/imhicihu/focus-group-2016/src/efe6ed9347a086fea9f3a0b01b9b1705809d2dce/improvements.md?at=default) is a must (the better sound capture, the better and swifter transcripts will be!)
+	* a dedicated [microphone](improvements.md) is a _must_ (the better sound capture, the better and swifter transcripts will be!)
 
 + Video recorder:
     * format internal hard disk drive
@@ -46,7 +46,7 @@
 	* disable face detection feature
 	* manual focus on
 	* SD card (encrypted with [VeraCrypt](https://veracrypt.codeplex.com/))
-    * internal hard disk: once the edition of sound was made and backed on DVDs, the internal hard disk of the camcorder was formatted. (Vide on [SR11 Guide](https://bitbucket.org/imhicihu/focus-group-2016/downloads/sr11guide.pdf), p. 7)
+    * internal hard disk: once the edition of sound was made and backed on DVDs, the internal hard disk of the camcorder was formatted. (_Vide_ on [SR11 Guide](https://bitbucket.org/imhicihu/focus-group-2016/downloads/sr11guide.pdf), p. 7)
 
 + Computer (Mac OS X El Capitan operating system)
     * enable login password for session
