@@ -1,5 +1,12 @@
+<p align="center">
+  <img src="images/5CTasM1-Ti-9U08PvoBtvQ.webp?raw=true" alt="Logotipo de Focus/Group/2016"/>
+</p>
+
+---
+
 ![stability-work_in_progress](images/3278295154-status_archived.png)
 ![Bitbucket issues](https://img.shields.io/badge/issues-closed-green.svg)
+
 # Rationale #
 
 
